@@ -1,6 +1,6 @@
 largo;ancho;petallargo;petalancho;variedad
-5;3;1;0,2;Setosa
-4;3;1;0,2;Setosa
-4;3;1,3;0;Setosa
+5;3;1;0;Setosa
 4;3;1;0;Setosa
-5;3;1;0,2;Setosa
+4;3;1;0;Setosa
+4;3;1;0;Setosa
+5;3;1;0;Setosa
